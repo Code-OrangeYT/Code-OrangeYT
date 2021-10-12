@@ -2,7 +2,7 @@
 - 👀 I’m interested in Python and back-end Programing
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on youtube
-- 📫 How to reach me email:rivandoalrasyid060@gmail.com
+- 📫 How to reach me email:adorablerichname@gmail.com
 
 <!---
 Code-OrangeYT/Code-OrangeYT is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
